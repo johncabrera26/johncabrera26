@@ -44,9 +44,6 @@
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
 <p>Esta aplicación gestiona horarios de docentes, ciclos y aulas del centro Metrodora. 
    Cumple con los siguientes requisitos:</p>
@@ -62,30 +59,24 @@
 </td>
 
 <td width="50%">
-            
-<h3 align="center">JC concesionario</h3>
-<div align="center">                                       
-<img src="https://i.imgur.com/lhdaNoZ.png" width="400"  alt="Proyecto JCconcesionario">
-<br>
+<h3 align="center">JCconcesionario</h3>
+<div align="center">
+<img src="https://i.imgur.com/lhdaNoZ.png" width="400"alt="Proyecto Horarios Profesores"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+</p>
 <p>Esta aplicación gestiona la compra y venta de vehiculos de manera online
   ademas cuanta con un apartado administrador donde gestionar el CRUD:</p>
 <ul>
-  <li>Posibilidad de comprar vehiculos actualizando la BD automaticamente</li>
+  <li>Posibilidad de comprar vehiculos actualizando la BD automaticamente.</li>
   <li>Posibilidad de vender vehiculos actualizando la BD automaticamente .</li>
   <li>Cuenta con un apartado Administrador donde se puede ejucutar cualquier accion CRUD de cualquier tabla 
     actualizandose en la BD automaticamente.</li>
+
 </ul>
-</div>                                                             
-</table>                                                                                 
 </div>
-<br>
-
-
+                                                                                      
+</td>
 
