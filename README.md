@@ -65,7 +65,7 @@
             
 <h3 align="center">JC concesionario</h3>
 <div align="center">                                       
-<img src="https://i.imgur.com/lhdaNoZ.png" width="430"  alt="Proyecto JCconcesionario">
+<img src="https://i.imgur.com/lhdaNoZ.png" width="400"  alt="Proyecto JCconcesionario">
 <br>
 <p>
 <a href="" target="_blank">
