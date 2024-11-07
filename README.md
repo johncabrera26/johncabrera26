@@ -74,7 +74,7 @@
   <li>Posibilidad de vender vehiculos actualizando la BD automaticamente .</li>
   <li>Cuenta con un apartado Administrador donde se puede ejucutar cualquier accion CRUD de cualquier tabla 
     actualizandose en la BD automaticamente.</li>
-
+<li></li>
 </ul>
 </div>
                                                                                       
