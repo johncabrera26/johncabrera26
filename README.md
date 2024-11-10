@@ -63,7 +63,7 @@
 <div align="center">
 <img src="https://i.imgur.com/lhdaNoZ.png" width="400"alt="Proyecto Horarios Profesores"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/johncabrera26/JCconcesionario.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
